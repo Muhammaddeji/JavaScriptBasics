@@ -17,4 +17,4 @@ else{
     console.log("mum3 is greatest");
 }
 
-console.log("Bye;...");
+console.log("Bye...");
