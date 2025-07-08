@@ -6,7 +6,6 @@ function greet(user)
     return "Hello user"
 }
 
-let user = 'Hello ${user}!'
+let user = 'Hello ${user}!' 
 let str = greet(user);
 console.log(str);
-
